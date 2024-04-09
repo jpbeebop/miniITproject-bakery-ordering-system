@@ -1,0 +1,1243 @@
+20/05/25 22:16:14 ** --- MESSAGE BEGIN ---
+20/05/25 22:16:14 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:16:14 ** Subject: Simple Email Test via PHP
+20/05/25 22:16:14 ** From: sender\'s email
+20/05/25 22:16:14 ** 
+20/05/25 22:16:14 ** Hi,this is test email send by PHP script
+20/05/25 22:16:14 ** --- MESSAGE END ---
+20/05/25 22:16:15 ** Connecting to smtp.gmail.com:587
+20/05/25 22:16:16 ** Connected.
+20/05/25 22:16:16 << 220 smtp.gmail.com ESMTP k30sm12899475pfh.49 - gsmtp<EOL>
+20/05/25 22:16:16 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:16:17 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:16:17 ** Authenticating as ganoslaiye@gmail.com
+20/05/25 22:16:17 >> STARTTLS<EOL>
+20/05/25 22:16:17 << 220 2.0.0 Ready to start TLS<EOL>
+20/05/25 22:16:17 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:16:17 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:16:17 >> AUTH LOGIN<EOL>
+20/05/25 22:16:17 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:16:17 >> Z2Fub3NsYWl5ZUBnbWFpbC5jb20=<EOL>
+20/05/25 22:16:17 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:16:17 >> YXMwNzQ3NzQ=<EOL>
+20/05/25 22:16:18 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials k30sm12899475pfh.49 - gsmtp<EOL>
+20/05/25 22:16:18 ** Disconnecting from smtp.gmail.com:587
+20/05/25 22:16:18 ** Disconnected.
+20/05/25 22:16:18 ** Disconnected.
+20/05/25 22:16:18 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials k30sm12899475pfh.49 - gsmtp<EOL>
+20/05/25 22:22:39 ** --- MESSAGE BEGIN ---
+20/05/25 22:22:39 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:22:39 ** Subject: Simple Email Test via PHP
+20/05/25 22:22:39 ** From: sender\'s email
+20/05/25 22:22:39 ** 
+20/05/25 22:22:39 ** Hi,this is test email send by PHP script
+20/05/25 22:22:39 ** --- MESSAGE END ---
+20/05/25 22:22:40 ** Connecting to smtp.gmail.com:587
+20/05/25 22:22:40 ** Connected.
+20/05/25 22:22:41 << 220 smtp.gmail.com ESMTP u4sm18524741pjf.3 - gsmtp<EOL>
+20/05/25 22:22:41 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:22:42 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:22:42 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:22:42 >> STARTTLS<EOL>
+20/05/25 22:22:42 << 220 2.0.0 Ready to start TLS<EOL>
+20/05/25 22:22:42 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:22:42 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:22:42 >> AUTH LOGIN<EOL>
+20/05/25 22:22:42 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:22:42 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:22:42 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:22:42 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:22:43 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials u4sm18524741pjf.3 - gsmtp<EOL>
+20/05/25 22:22:43 ** Disconnecting from smtp.gmail.com:587
+20/05/25 22:22:43 ** Disconnected.
+20/05/25 22:22:43 ** Disconnected.
+20/05/25 22:22:43 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials u4sm18524741pjf.3 - gsmtp<EOL>
+20/05/25 22:34:59 ** --- MESSAGE BEGIN ---
+20/05/25 22:34:59 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:34:59 ** Subject: Simple Email Test via PHP
+20/05/25 22:34:59 ** From: sender\'s email
+20/05/25 22:34:59 ** 
+20/05/25 22:34:59 ** Hi,this is test email send by PHP script
+20/05/25 22:34:59 ** --- MESSAGE END ---
+20/05/25 22:35:00 ** Connecting to smtp.gmail.com:587
+20/05/25 22:35:00 ** Connected.
+20/05/25 22:35:01 << 220 smtp.gmail.com ESMTP l10sm13242720pfd.70 - gsmtp<EOL>
+20/05/25 22:35:01 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:35:01 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:35:01 ** Authenticating as ganoslaiye@gmail.com
+20/05/25 22:35:01 >> STARTTLS<EOL>
+20/05/25 22:35:01 << 220 2.0.0 Ready to start TLS<EOL>
+20/05/25 22:35:01 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:35:01 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:35:01 >> AUTH LOGIN<EOL>
+20/05/25 22:35:02 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:35:02 >> Z2Fub3NsYWl5ZUBnbWFpbC5jb20=<EOL>
+20/05/25 22:35:02 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:35:02 >> YXMwNzQ3NzQ=<EOL>
+20/05/25 22:35:02 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials l10sm13242720pfd.70 - gsmtp<EOL>
+20/05/25 22:35:02 ** Disconnecting from smtp.gmail.com:587
+20/05/25 22:35:02 ** Disconnected.
+20/05/25 22:35:02 ** Disconnected.
+20/05/25 22:35:02 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials l10sm13242720pfd.70 - gsmtp<EOL>
+20/05/25 22:35:03 ** Disconnecting from smtp.gmail.com:587
+20/05/25 22:35:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials z21sm13109708pfr.77 - gsmtp<EOL>
+20/05/25 22:39:38 ** --- MESSAGE BEGIN ---
+20/05/25 22:39:38 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:39:38 ** Subject: Simple Email Test via PHP
+20/05/25 22:39:38 ** From: sender\'s email
+20/05/25 22:39:38 ** 
+20/05/25 22:39:38 ** Hi,this is test email send by PHP script
+20/05/25 22:39:38 ** --- MESSAGE END ---
+20/05/25 22:39:39 ** Connecting to smtp.gmail.com:587
+20/05/25 22:39:40 ** Connected.
+20/05/25 22:39:40 << 220 smtp.gmail.com ESMTP 141sm13126457pfz.171 - gsmtp<EOL>
+20/05/25 22:39:40 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:39:40 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-STARTTLS<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:39:40 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:39:40 >> STARTTLS<EOL>
+20/05/25 22:39:41 << 220 2.0.0 Ready to start TLS<EOL>
+20/05/25 22:39:41 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:39:41 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:39:41 >> AUTH LOGIN<EOL>
+20/05/25 22:39:41 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:39:41 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:39:41 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:39:41 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:39:42 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials 141sm13126457pfz.171 - gsmtp<EOL>
+20/05/25 22:39:42 ** Disconnecting from smtp.gmail.com:587
+20/05/25 22:39:42 ** Disconnected.
+20/05/25 22:39:42 ** Disconnected.
+20/05/25 22:39:42 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials 141sm13126457pfz.171 - gsmtp<EOL>
+20/05/25 22:42:55 ** --- MESSAGE BEGIN ---
+20/05/25 22:42:55 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:42:55 ** Subject: Simple Email Test via PHP
+20/05/25 22:42:55 ** From: sender\'s email
+20/05/25 22:42:55 ** 
+20/05/25 22:42:55 ** Hi,this is test email send by PHP script
+20/05/25 22:42:55 ** --- MESSAGE END ---
+20/05/25 22:42:56 ** Connecting to smtp.gmail.com:465
+20/05/25 22:42:57 ** Connected.
+20/05/25 22:42:58 << 220 smtp.gmail.com ESMTP c14sm12862233pfp.122 - gsmtp<EOL>
+20/05/25 22:42:58 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:42:58 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:42:58 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:42:58 >> AUTH LOGIN<EOL>
+20/05/25 22:42:58 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:42:58 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:42:58 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:42:58 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:42:58 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials c14sm12862233pfp.122 - gsmtp<EOL>
+20/05/25 22:42:58 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:42:58 ** Disconnected.
+20/05/25 22:42:58 ** Disconnected.
+20/05/25 22:42:59 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c14sm12862233pfp.122 - gsmtp<EOL>
+20/05/25 22:42:59 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:43:00 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:43:00 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials go1sm12486843pjb.26 - gsmtp<EOL>
+20/05/25 22:50:43 ** --- MESSAGE BEGIN ---
+20/05/25 22:50:43 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:50:43 ** Subject: Simple Email Test via PHP
+20/05/25 22:50:43 ** From: 1151104900@student.mmu.edu.my
+20/05/25 22:50:43 ** 
+20/05/25 22:50:43 ** Hi,this is test email send by PHP script
+20/05/25 22:50:43 ** --- MESSAGE END ---
+20/05/25 22:50:44 ** Connecting to smtp.gmail.com:465
+20/05/25 22:50:44 ** Connected.
+20/05/25 22:50:46 << 220 smtp.gmail.com ESMTP m2sm5099421pjk.52 - gsmtp<EOL>
+20/05/25 22:50:46 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:50:46 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:50:46 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:50:46 >> AUTH LOGIN<EOL>
+20/05/25 22:50:46 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:50:46 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:50:46 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:50:46 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:50:46 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials m2sm5099421pjk.52 - gsmtp<EOL>
+20/05/25 22:50:46 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:50:46 ** Disconnected.
+20/05/25 22:50:46 ** Disconnected.
+20/05/25 22:50:46 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials m2sm5099421pjk.52 - gsmtp<EOL>
+20/05/25 22:50:47 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:50:47 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials f136sm12835708pfa.59 - gsmtp<EOL>
+20/05/25 22:50:47 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:50:47 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials x20sm13153895pfc.211 - gsmtp<EOL>
+20/05/25 22:51:00 ** --- MESSAGE BEGIN ---
+20/05/25 22:51:00 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:51:00 ** Subject: Simple Email Test via PHP
+20/05/25 22:51:00 ** From: 1151104900@student.mmu.edu.my
+20/05/25 22:51:00 ** 
+20/05/25 22:51:00 ** Hi,this is test email send by PHP script
+20/05/25 22:51:00 ** --- MESSAGE END ---
+20/05/25 22:51:01 ** Connecting to smtp.gmail.com:465
+20/05/25 22:51:01 ** Connected.
+20/05/25 22:51:02 << 220 smtp.gmail.com ESMTP c123sm12970157pfb.102 - gsmtp<EOL>
+20/05/25 22:51:02 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:51:02 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:51:02 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:51:02 >> AUTH LOGIN<EOL>
+20/05/25 22:51:03 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:51:03 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:51:03 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:51:03 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:51:03 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials c123sm12970157pfb.102 - gsmtp<EOL>
+20/05/25 22:51:03 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:51:03 ** Disconnected.
+20/05/25 22:51:03 ** Disconnected.
+20/05/25 22:51:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c123sm12970157pfb.102 - gsmtp<EOL>
+20/05/25 22:52:10 ** --- MESSAGE BEGIN ---
+20/05/25 22:52:10 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:52:10 ** Subject: Simple Email Test via PHP
+20/05/25 22:52:10 ** From: 1151104900@student.mmu.edu.my
+20/05/25 22:52:10 ** 
+20/05/25 22:52:10 ** Hi,this is test email send by PHP script
+20/05/25 22:52:10 ** --- MESSAGE END ---
+20/05/25 22:52:11 ** Connecting to smtp.gmail.com:465
+20/05/25 22:52:12 ** Connected.
+20/05/25 22:52:13 << 220 smtp.gmail.com ESMTP x25sm11293937pge.23 - gsmtp<EOL>
+20/05/25 22:52:13 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:52:13 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:52:13 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:52:13 >> AUTH LOGIN<EOL>
+20/05/25 22:52:13 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:52:13 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:52:13 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:52:13 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:52:14 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials x25sm11293937pge.23 - gsmtp<EOL>
+20/05/25 22:52:14 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:52:14 ** Disconnected.
+20/05/25 22:52:14 ** Disconnected.
+20/05/25 22:52:14 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials x25sm11293937pge.23 - gsmtp<EOL>
+20/05/25 22:54:28 ** --- MESSAGE BEGIN ---
+20/05/25 22:54:28 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:54:28 ** Subject: Simple Email Test via PHP
+20/05/25 22:54:28 ** From: 1151104900@student.mmu.edu.my
+20/05/25 22:54:28 ** 
+20/05/25 22:54:28 ** Hi,this is test email send by PHP script
+20/05/25 22:54:28 ** --- MESSAGE END ---
+20/05/25 22:54:29 ** Connecting to smtp.gmail.com:465
+20/05/25 22:54:30 ** Connected.
+20/05/25 22:54:31 << 220 smtp.gmail.com ESMTP p19sm12634732pfn.216 - gsmtp<EOL>
+20/05/25 22:54:31 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 22:54:31 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 22:54:31 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 22:54:31 >> AUTH LOGIN<EOL>
+20/05/25 22:54:31 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 22:54:31 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 22:54:31 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 22:54:31 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 22:54:31 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials p19sm12634732pfn.216 - gsmtp<EOL>
+20/05/25 22:54:31 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:54:31 ** Disconnected.
+20/05/25 22:54:31 ** Disconnected.
+20/05/25 22:54:31 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials p19sm12634732pfn.216 - gsmtp<EOL>
+20/05/25 22:54:32 ** Disconnecting from smtp.gmail.com:465
+20/05/25 22:54:32 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials l23sm11081055pff.80 - gsmtp<EOL>
+20/05/25 22:59:58 ** --- MESSAGE BEGIN ---
+20/05/25 22:59:58 ** To: 1151104900@student.mmu.edu.my
+20/05/25 22:59:58 ** Subject: Simple Email Test via PHP
+20/05/25 22:59:58 ** From: 1151104900@student.mmu.edu.my
+20/05/25 22:59:58 ** 
+20/05/25 22:59:58 ** Hi,this is test email send by PHP script
+20/05/25 22:59:58 ** --- MESSAGE END ---
+20/05/25 23:00:00 ** Connecting to smtp.gmail.com:465
+20/05/25 23:00:00 ** Connected.
+20/05/25 23:00:01 << 220 smtp.gmail.com ESMTP n3sm3575227pgq.30 - gsmtp<EOL>
+20/05/25 23:00:01 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 23:00:01 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 23:00:01 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 23:00:01 >> AUTH LOGIN<EOL>
+20/05/25 23:00:01 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 23:00:01 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 23:00:01 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 23:00:01 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 23:00:02 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials n3sm3575227pgq.30 - gsmtp<EOL>
+20/05/25 23:00:02 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:00:02 ** Disconnected.
+20/05/25 23:00:02 ** Disconnected.
+20/05/25 23:00:02 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials n3sm3575227pgq.30 - gsmtp<EOL>
+20/05/25 23:00:02 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 23:00:03 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:00:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials c21sm12767810pfo.131 - gsmtp<EOL>
+20/05/25 23:00:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials b29sm13091895pff.176 - gsmtp<EOL>
+20/05/25 23:02:40 ** --- MESSAGE BEGIN ---
+20/05/25 23:02:40 ** To: 1151104900@student.mmu.edu.my
+20/05/25 23:02:40 ** Subject: Simple Email Test via PHP
+20/05/25 23:02:40 ** From: 1151104900@student.mmu.edu.my
+20/05/25 23:02:40 ** 
+20/05/25 23:02:40 ** Hi,this is test email send by PHP script
+20/05/25 23:02:40 ** --- MESSAGE END ---
+20/05/25 23:02:41 ** Connecting to smtp.gmail.com:465
+20/05/25 23:02:41 ** Connected.
+20/05/25 23:02:43 << 220 smtp.gmail.com ESMTP 1sm1857202pje.26 - gsmtp<EOL>
+20/05/25 23:02:43 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 23:02:43 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 23:02:43 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 23:02:43 >> AUTH LOGIN<EOL>
+20/05/25 23:02:43 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 23:02:43 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 23:02:44 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 23:02:44 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 23:02:44 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials 1sm1857202pje.26 - gsmtp<EOL>
+20/05/25 23:02:44 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:02:44 ** Disconnected.
+20/05/25 23:02:44 ** Disconnected.
+20/05/25 23:02:44 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials 1sm1857202pje.26 - gsmtp<EOL>
+20/05/25 23:08:12 ** --- MESSAGE BEGIN ---
+20/05/25 23:08:12 ** To: 1151104900@student.mmu.edu.my
+20/05/25 23:08:12 ** Subject: Simple Email Test via PHP
+20/05/25 23:08:12 ** From: 1151104900@student.mmu.edu.my
+20/05/25 23:08:12 ** 
+20/05/25 23:08:12 ** Hi,this is test email send by PHP script
+20/05/25 23:08:12 ** --- MESSAGE END ---
+20/05/25 23:08:13 ** Connecting to smtp.gmail.com:465
+20/05/25 23:08:14 ** Connected.
+20/05/25 23:08:15 << 220 smtp.gmail.com ESMTP o18sm153428pjp.4 - gsmtp<EOL>
+20/05/25 23:08:15 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 23:08:15 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 23:08:15 ** Authenticating as 1151104900@student.mmu.edu.my
+20/05/25 23:08:15 >> AUTH LOGIN<EOL>
+20/05/25 23:08:16 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 23:08:16 >> MTE1MTEwNDkwMEBzdHVkZW50Lm1tdS5lZHUubXk=<EOL>
+20/05/25 23:08:16 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 23:08:16 >> SyM5UUpjQThUMjE=<EOL>
+20/05/25 23:08:16 << 235 2.7.0 Accepted<EOL>
+20/05/25 23:08:16 >> MAIL FROM: <1151104900@student.mmu.edu.my><EOL>
+20/05/25 23:08:16 << 250 2.1.0 OK o18sm153428pjp.4 - gsmtp<EOL>
+20/05/25 23:08:16 >> RCPT TO: <1151104900@student.mmu.edu.my><EOL>
+20/05/25 23:08:17 << 250 2.1.5 OK o18sm153428pjp.4 - gsmtp<EOL>
+20/05/25 23:08:17 >> DATA<EOL>
+20/05/25 23:08:17 << 354  Go ahead o18sm153428pjp.4 - gsmtp<EOL>
+20/05/25 23:08:17 >> Date: Mon, 25 May 2020 23:08:17 +0800<EOL>
+20/05/25 23:08:17 >> To: 1151104900@student.mmu.edu.my<EOL>
+20/05/25 23:08:17 >> Subject: Simple Email Test via PHP<EOL>
+20/05/25 23:08:17 >> From: 1151104900@student.mmu.edu.my<EOL>
+20/05/25 23:08:17 >> <EOL>
+20/05/25 23:08:17 >> Hi,this is test email send by PHP script<EOL>
+20/05/25 23:08:17 >> .<EOL>
+20/05/25 23:08:18 << 250 2.0.0 OK  1590419298 o18sm153428pjp.4 - gsmtp<EOL>
+20/05/25 23:08:18 >> QUIT<EOL>
+20/05/25 23:08:18 << 221 2.0.0 closing connection o18sm153428pjp.4 - gsmtp<EOL>
+20/05/25 23:08:18 ** Disconnected.
+20/05/25 23:08:18 ** Disconnected.
+20/05/25 23:08:18 ** Disconnected.
+20/05/25 23:08:18 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:15:57 ** --- MESSAGE BEGIN ---
+20/05/25 23:15:57 ** To: 1151104900@student.mmu.edu.my
+20/05/25 23:15:57 ** Subject: Simple Email Test via PHP
+20/05/25 23:15:57 ** From: 1151104900@student.mmu.edu.my
+20/05/25 23:15:57 ** 
+20/05/25 23:15:57 ** Hi,this is test email send by PHP script
+20/05/25 23:15:57 ** --- MESSAGE END ---
+20/05/25 23:15:59 ** Connecting to smtp.gmail.com:465
+20/05/25 23:15:59 ** Connected.
+20/05/25 23:16:00 << 220 smtp.gmail.com ESMTP w186sm13232174pff.83 - gsmtp<EOL>
+20/05/25 23:16:00 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 23:16:00 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 23:16:00 ** Authenticating as wistoriabakery@gmail.com
+20/05/25 23:16:00 >> AUTH LOGIN<EOL>
+20/05/25 23:16:00 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 23:16:00 >> d2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/25 23:16:00 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 23:16:00 >> V2JfMjAyMDU=<EOL>
+20/05/25 23:16:01 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials w186sm13232174pff.83 - gsmtp<EOL>
+20/05/25 23:16:01 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:16:01 ** Disconnected.
+20/05/25 23:16:01 ** Disconnected.
+20/05/25 23:16:01 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials w186sm13232174pff.83 - gsmtp<EOL>
+20/05/25 23:16:01 ** Authenticating as wistoriabakery@gmail.com
+20/05/25 23:16:02 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:16:02 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials i29sm5438918pfk.38 - gsmtp<EOL>
+20/05/25 23:16:02 ** Authenticating as wistoriabakery@gmail.com
+20/05/25 23:16:03 ** Disconnecting from smtp.gmail.com:465
+20/05/25 23:16:03 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials j10sm10598610pjf.9 - gsmtp<EOL>
+20/05/25 23:19:13 ** --- MESSAGE BEGIN ---
+20/05/25 23:19:13 ** To: 1151104900@student.mmu.edu.my
+20/05/25 23:19:13 ** Subject: Simple Email Test via PHP
+20/05/25 23:19:13 ** From: 1151104900@student.mmu.edu.my
+20/05/25 23:19:13 ** 
+20/05/25 23:19:13 ** Hi,this is test email send by PHP script
+20/05/25 23:19:13 ** --- MESSAGE END ---
+20/05/25 23:19:15 ** Connecting to smtp.gmail.com:465
+20/05/25 23:19:15 ** Connected.
+20/05/25 23:19:16 << 220 smtp.gmail.com ESMTP i14sm13374755pfo.162 - gsmtp<EOL>
+20/05/25 23:19:16 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 23:19:16 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 23:19:16 ** Authenticating as jiapao5626@gmail.com
+20/05/25 23:19:16 >> AUTH LOGIN<EOL>
+20/05/25 23:19:16 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 23:19:16 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/25 23:19:16 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 23:19:16 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/25 23:19:17 << 235 2.7.0 Accepted<EOL>
+20/05/25 23:19:17 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/25 23:19:17 << 250 2.1.0 OK i14sm13374755pfo.162 - gsmtp<EOL>
+20/05/25 23:19:17 >> RCPT TO: <1151104900@student.mmu.edu.my><EOL>
+20/05/25 23:19:17 << 250 2.1.5 OK i14sm13374755pfo.162 - gsmtp<EOL>
+20/05/25 23:19:17 >> DATA<EOL>
+20/05/25 23:19:17 << 354  Go ahead i14sm13374755pfo.162 - gsmtp<EOL>
+20/05/25 23:19:17 >> Date: Mon, 25 May 2020 23:19:17 +0800<EOL>
+20/05/25 23:19:17 >> To: 1151104900@student.mmu.edu.my<EOL>
+20/05/25 23:19:17 >> Subject: Simple Email Test via PHP<EOL>
+20/05/25 23:19:17 >> From: 1151104900@student.mmu.edu.my<EOL>
+20/05/25 23:19:17 >> <EOL>
+20/05/25 23:19:17 >> Hi,this is test email send by PHP script<EOL>
+20/05/25 23:19:17 >> .<EOL>
+20/05/25 23:19:18 << 250 2.0.0 OK  1590419958 i14sm13374755pfo.162 - gsmtp<EOL>
+20/05/25 23:19:18 >> QUIT<EOL>
+20/05/25 23:19:18 << 221 2.0.0 closing connection i14sm13374755pfo.162 - gsmtp<EOL>
+20/05/25 23:19:18 ** Disconnected.
+20/05/25 23:19:18 ** Disconnected.
+20/05/25 23:19:18 ** Disconnected.
+20/05/25 23:21:45 ** --- MESSAGE BEGIN ---
+20/05/25 23:21:45 ** To: jiapao5626@gmail.com
+20/05/25 23:21:45 ** Subject: Message from user: 1212
+20/05/25 23:21:45 ** From: jiapao5626@gmail.com
+20/05/25 23:21:45 ** 
+20/05/25 23:21:45 ** 12e123
+20/05/25 23:21:45 ** --- MESSAGE END ---
+20/05/25 23:21:46 ** Connecting to smtp.gmail.com:465
+20/05/25 23:21:46 ** Connected.
+20/05/25 23:21:47 << 220 smtp.gmail.com ESMTP v127sm13162368pfb.91 - gsmtp<EOL>
+20/05/25 23:21:47 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/25 23:21:47 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/25 23:21:47 ** Authenticating as jiapao5626@gmail.com
+20/05/25 23:21:47 >> AUTH LOGIN<EOL>
+20/05/25 23:21:47 << 334 VXNlcm5hbWU6<EOL>
+20/05/25 23:21:47 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/25 23:21:48 << 334 UGFzc3dvcmQ6<EOL>
+20/05/25 23:21:48 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/25 23:21:48 << 235 2.7.0 Accepted<EOL>
+20/05/25 23:21:48 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/25 23:21:48 << 250 2.1.0 OK v127sm13162368pfb.91 - gsmtp<EOL>
+20/05/25 23:21:48 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/25 23:21:48 << 250 2.1.5 OK v127sm13162368pfb.91 - gsmtp<EOL>
+20/05/25 23:21:48 >> DATA<EOL>
+20/05/25 23:21:49 << 354  Go ahead v127sm13162368pfb.91 - gsmtp<EOL>
+20/05/25 23:21:49 >> Date: Mon, 25 May 2020 23:21:49 +0800<EOL>
+20/05/25 23:21:49 >> To: jiapao5626@gmail.com<EOL>
+20/05/25 23:21:49 >> Subject: Message from user: 1212<EOL>
+20/05/25 23:21:49 >> From: jiapao5626@gmail.com<EOL>
+20/05/25 23:21:49 >> <EOL>
+20/05/25 23:21:49 >> 12e123<EOL>
+20/05/25 23:21:49 >> .<EOL>
+20/05/25 23:21:49 << 250 2.0.0 OK  1590420110 v127sm13162368pfb.91 - gsmtp<EOL>
+20/05/25 23:21:49 >> QUIT<EOL>
+20/05/25 23:21:50 << 221 2.0.0 closing connection v127sm13162368pfb.91 - gsmtp<EOL>
+20/05/25 23:21:50 ** Disconnected.
+20/05/25 23:21:50 ** Disconnected.
+20/05/25 23:21:50 ** Disconnected.
+20/05/25 23:21:50 ** Disconnecting from smtp.gmail.com:465
+20/05/26 00:09:24 ** --- MESSAGE BEGIN ---
+20/05/26 00:09:24 ** To: jiapao5626@gmail.com
+20/05/26 00:09:24 ** Subject: Message from user:
+20/05/26 00:09:24 ** From: jiapao5626@gmail.com
+20/05/26 00:09:24 ** 
+20/05/26 00:09:24 ** wqeqweqw
+20/05/26 00:09:24 ** --- MESSAGE END ---
+20/05/26 00:09:25 ** Connecting to smtp.gmail.com:465
+20/05/26 00:09:25 ** Connected.
+20/05/26 00:09:27 << 220 smtp.gmail.com ESMTP j5sm13615747pjf.0 - gsmtp<EOL>
+20/05/26 00:09:27 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:09:27 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:09:27 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:09:27 >> AUTH LOGIN<EOL>
+20/05/26 00:09:27 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:09:27 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:09:27 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:09:27 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:09:28 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:09:28 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:09:28 << 250 2.1.0 OK j5sm13615747pjf.0 - gsmtp<EOL>
+20/05/26 00:09:28 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:09:28 << 250 2.1.5 OK j5sm13615747pjf.0 - gsmtp<EOL>
+20/05/26 00:09:28 >> DATA<EOL>
+20/05/26 00:09:28 << 354  Go ahead j5sm13615747pjf.0 - gsmtp<EOL>
+20/05/26 00:09:28 >> Date: Tue, 26 May 2020 00:09:28 +0800<EOL>
+20/05/26 00:09:28 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:09:28 >> Subject: Message from user:<EOL>
+20/05/26 00:09:28 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:09:28 >> <EOL>
+20/05/26 00:09:28 >> wqeqweqw<EOL>
+20/05/26 00:09:28 >> .<EOL>
+20/05/26 00:09:29 << 250 2.0.0 OK  1590422969 j5sm13615747pjf.0 - gsmtp<EOL>
+20/05/26 00:09:29 >> QUIT<EOL>
+20/05/26 00:09:29 << 221 2.0.0 closing connection j5sm13615747pjf.0 - gsmtp<EOL>
+20/05/26 00:09:29 ** Disconnecting from smtp.gmail.com:465
+20/05/26 00:09:29 ** Disconnected.
+20/05/26 00:09:29 ** Disconnected.
+20/05/26 00:09:29 ** --- MESSAGE BEGIN ---
+20/05/26 00:09:29 ** To: jiapao5626@gmail.com
+20/05/26 00:09:29 ** Subject: Message from user:
+20/05/26 00:09:29 ** From: jiapao5626@gmail.com
+20/05/26 00:09:29 ** 
+20/05/26 00:09:29 ** wqeqweqw
+20/05/26 00:09:29 ** --- MESSAGE END ---
+20/05/26 00:09:30 ** Connecting to smtp.gmail.com:465
+20/05/26 00:09:31 ** Connected.
+20/05/26 00:09:32 << 220 smtp.gmail.com ESMTP gt10sm13020033pjb.30 - gsmtp<EOL>
+20/05/26 00:09:32 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:09:32 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:09:32 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:09:32 >> AUTH LOGIN<EOL>
+20/05/26 00:09:33 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:09:33 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:09:33 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:09:33 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:09:33 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:09:33 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:09:33 << 250 2.1.0 OK gt10sm13020033pjb.30 - gsmtp<EOL>
+20/05/26 00:09:33 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:09:34 << 250 2.1.5 OK gt10sm13020033pjb.30 - gsmtp<EOL>
+20/05/26 00:09:34 >> DATA<EOL>
+20/05/26 00:09:34 << 354  Go ahead gt10sm13020033pjb.30 - gsmtp<EOL>
+20/05/26 00:09:34 >> Date: Tue, 26 May 2020 00:09:34 +0800<EOL>
+20/05/26 00:09:34 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:09:34 >> Subject: Message from user:<EOL>
+20/05/26 00:09:34 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:09:34 >> <EOL>
+20/05/26 00:09:34 >> wqeqweqw<EOL>
+20/05/26 00:09:34 >> .<EOL>
+20/05/26 00:09:34 << 250 2.0.0 OK  1590422975 gt10sm13020033pjb.30 - gsmtp<EOL>
+20/05/26 00:09:34 >> QUIT<EOL>
+20/05/26 00:09:35 << 221 2.0.0 closing connection gt10sm13020033pjb.30 - gsmtp<EOL>
+20/05/26 00:09:35 ** Disconnected.
+20/05/26 00:09:35 ** Disconnected.
+20/05/26 00:09:35 ** Disconnected.
+20/05/26 00:10:15 ** --- MESSAGE BEGIN ---
+20/05/26 00:10:15 ** To: jiapao5626@gmail.com
+20/05/26 00:10:15 ** Subject: Message from user: 26
+20/05/26 00:10:15 ** From: jiapao5626@gmail.com
+20/05/26 00:10:15 ** 
+20/05/26 00:10:15 ** wqeqweqw
+20/05/26 00:10:15 ** --- MESSAGE END ---
+20/05/26 00:10:16 ** Connecting to smtp.gmail.com:465
+20/05/26 00:10:17 ** Connected.
+20/05/26 00:10:18 << 220 smtp.gmail.com ESMTP u69sm13678652pjb.40 - gsmtp<EOL>
+20/05/26 00:10:18 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:10:18 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:10:18 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:10:18 >> AUTH LOGIN<EOL>
+20/05/26 00:10:19 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:10:19 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:10:19 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:10:19 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:10:19 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:10:19 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:10:19 << 250 2.1.0 OK u69sm13678652pjb.40 - gsmtp<EOL>
+20/05/26 00:10:19 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:10:20 << 250 2.1.5 OK u69sm13678652pjb.40 - gsmtp<EOL>
+20/05/26 00:10:20 >> DATA<EOL>
+20/05/26 00:10:20 << 354  Go ahead u69sm13678652pjb.40 - gsmtp<EOL>
+20/05/26 00:10:20 >> Date: Tue, 26 May 2020 00:10:20 +0800<EOL>
+20/05/26 00:10:20 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:10:20 >> Subject: Message from user: 26<EOL>
+20/05/26 00:10:20 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:10:20 >> <EOL>
+20/05/26 00:10:20 >> wqeqweqw<EOL>
+20/05/26 00:10:20 >> .<EOL>
+20/05/26 00:10:20 << 250 2.0.0 OK  1590423021 u69sm13678652pjb.40 - gsmtp<EOL>
+20/05/26 00:10:20 >> QUIT<EOL>
+20/05/26 00:10:21 << 221 2.0.0 closing connection u69sm13678652pjb.40 - gsmtp<EOL>
+20/05/26 00:10:21 ** Disconnected.
+20/05/26 00:10:21 ** Disconnected.
+20/05/26 00:10:21 ** Disconnected.
+20/05/26 00:10:21 ** --- MESSAGE BEGIN ---
+20/05/26 00:10:21 ** To: jiapao5626@gmail.com
+20/05/26 00:10:21 ** Subject: Message from user: 26
+20/05/26 00:10:21 ** From: jiapao5626@gmail.com
+20/05/26 00:10:21 ** 
+20/05/26 00:10:21 ** wqeqweqw
+20/05/26 00:10:21 ** --- MESSAGE END ---
+20/05/26 00:10:22 ** Connecting to smtp.gmail.com:465
+20/05/26 00:10:22 ** Connected.
+20/05/26 00:10:23 << 220 smtp.gmail.com ESMTP 131sm12112618pgf.49 - gsmtp<EOL>
+20/05/26 00:10:23 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:10:23 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:10:23 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:10:23 >> AUTH LOGIN<EOL>
+20/05/26 00:10:23 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:10:23 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:10:23 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:10:23 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:10:24 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:10:24 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:10:24 << 250 2.1.0 OK 131sm12112618pgf.49 - gsmtp<EOL>
+20/05/26 00:10:24 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:10:24 << 250 2.1.5 OK 131sm12112618pgf.49 - gsmtp<EOL>
+20/05/26 00:10:24 >> DATA<EOL>
+20/05/26 00:10:24 << 354  Go ahead 131sm12112618pgf.49 - gsmtp<EOL>
+20/05/26 00:10:24 >> Date: Tue, 26 May 2020 00:10:24 +0800<EOL>
+20/05/26 00:10:24 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:10:24 >> Subject: Message from user: 26<EOL>
+20/05/26 00:10:24 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:10:24 >> <EOL>
+20/05/26 00:10:24 >> wqeqweqw<EOL>
+20/05/26 00:10:24 >> .<EOL>
+20/05/26 00:10:25 << 250 2.0.0 OK  1590423025 131sm12112618pgf.49 - gsmtp<EOL>
+20/05/26 00:10:25 >> QUIT<EOL>
+20/05/26 00:10:25 << 221 2.0.0 closing connection 131sm12112618pgf.49 - gsmtp<EOL>
+20/05/26 00:10:25 ** Disconnected.
+20/05/26 00:10:25 ** Disconnected.
+20/05/26 00:10:25 ** Disconnected.
+20/05/26 00:10:25 ** --- MESSAGE BEGIN ---
+20/05/26 00:10:25 ** To: jiapao5626@gmail.com
+20/05/26 00:10:25 ** Subject: Message from user: 26
+20/05/26 00:10:25 ** From: jiapao5626@gmail.com
+20/05/26 00:10:25 ** 
+20/05/26 00:10:25 ** wqeqweqw
+20/05/26 00:10:25 ** --- MESSAGE END ---
+20/05/26 00:10:26 ** Connecting to smtp.gmail.com:465
+20/05/26 00:10:27 ** Connected.
+20/05/26 00:10:28 << 220 smtp.gmail.com ESMTP ep10sm11341082pjb.25 - gsmtp<EOL>
+20/05/26 00:10:28 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:10:28 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:10:28 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:10:28 >> AUTH LOGIN<EOL>
+20/05/26 00:10:29 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:10:29 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:10:29 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:10:29 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:10:29 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:10:29 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:10:29 << 250 2.1.0 OK ep10sm11341082pjb.25 - gsmtp<EOL>
+20/05/26 00:10:29 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:10:30 << 250 2.1.5 OK ep10sm11341082pjb.25 - gsmtp<EOL>
+20/05/26 00:10:30 >> DATA<EOL>
+20/05/26 00:10:30 << 354  Go ahead ep10sm11341082pjb.25 - gsmtp<EOL>
+20/05/26 00:10:30 >> Date: Tue, 26 May 2020 00:10:30 +0800<EOL>
+20/05/26 00:10:30 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:10:30 >> Subject: Message from user: 26<EOL>
+20/05/26 00:10:30 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:10:30 >> <EOL>
+20/05/26 00:10:30 >> wqeqweqw<EOL>
+20/05/26 00:10:30 >> .<EOL>
+20/05/26 00:10:30 << 250 2.0.0 OK  1590423031 ep10sm11341082pjb.25 - gsmtp<EOL>
+20/05/26 00:10:30 >> QUIT<EOL>
+20/05/26 00:10:31 << 221 2.0.0 closing connection ep10sm11341082pjb.25 - gsmtp<EOL>
+20/05/26 00:10:31 ** Disconnected.
+20/05/26 00:10:31 ** Disconnected.
+20/05/26 00:10:31 ** Disconnected.
+20/05/26 00:11:25 ** --- MESSAGE BEGIN ---
+20/05/26 00:11:25 ** To: jiapao5626@gmail.com
+20/05/26 00:11:25 ** Subject: Message from user: 26
+20/05/26 00:11:25 ** From: jiapao5626@gmail.com
+20/05/26 00:11:25 ** 
+20/05/26 00:11:25 ** wqeqweqw
+20/05/26 00:11:25 ** --- MESSAGE END ---
+20/05/26 00:11:26 ** Connecting to smtp.gmail.com:465
+20/05/26 00:11:26 ** Connected.
+20/05/26 00:11:27 << 220 smtp.gmail.com ESMTP w7sm5594058pfu.117 - gsmtp<EOL>
+20/05/26 00:11:27 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:11:27 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:11:27 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:11:27 >> AUTH LOGIN<EOL>
+20/05/26 00:11:27 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:11:27 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:11:27 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:11:27 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:11:28 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:11:28 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:28 << 250 2.1.0 OK w7sm5594058pfu.117 - gsmtp<EOL>
+20/05/26 00:11:28 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:28 << 250 2.1.5 OK w7sm5594058pfu.117 - gsmtp<EOL>
+20/05/26 00:11:28 >> DATA<EOL>
+20/05/26 00:11:28 << 354  Go ahead w7sm5594058pfu.117 - gsmtp<EOL>
+20/05/26 00:11:28 >> Date: Tue, 26 May 2020 00:11:28 +0800<EOL>
+20/05/26 00:11:28 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:28 >> Subject: Message from user: 26<EOL>
+20/05/26 00:11:28 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:28 >> <EOL>
+20/05/26 00:11:28 >> wqeqweqw<EOL>
+20/05/26 00:11:28 >> .<EOL>
+20/05/26 00:11:30 << 250 2.0.0 OK  1590423090 w7sm5594058pfu.117 - gsmtp<EOL>
+20/05/26 00:11:30 >> QUIT<EOL>
+20/05/26 00:11:30 << 221 2.0.0 closing connection w7sm5594058pfu.117 - gsmtp<EOL>
+20/05/26 00:11:30 ** Disconnected.
+20/05/26 00:11:30 ** Disconnected.
+20/05/26 00:11:30 ** Disconnected.
+20/05/26 00:11:30 ** --- MESSAGE BEGIN ---
+20/05/26 00:11:30 ** To: jiapao5626@gmail.com
+20/05/26 00:11:30 ** Subject: Message from user: 26
+20/05/26 00:11:30 ** From: jiapao5626@gmail.com
+20/05/26 00:11:30 ** 
+20/05/26 00:11:30 ** wqeqweqw
+20/05/26 00:11:30 ** --- MESSAGE END ---
+20/05/26 00:11:31 ** Connecting to smtp.gmail.com:465
+20/05/26 00:11:31 ** Connected.
+20/05/26 00:11:32 << 220 smtp.gmail.com ESMTP 1sm13614041pff.180 - gsmtp<EOL>
+20/05/26 00:11:32 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:11:32 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:11:32 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:11:32 >> AUTH LOGIN<EOL>
+20/05/26 00:11:32 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:11:32 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:11:33 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:11:33 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:11:33 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:11:33 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:33 << 250 2.1.0 OK 1sm13614041pff.180 - gsmtp<EOL>
+20/05/26 00:11:33 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:33 << 250 2.1.5 OK 1sm13614041pff.180 - gsmtp<EOL>
+20/05/26 00:11:33 >> DATA<EOL>
+20/05/26 00:11:34 << 354  Go ahead 1sm13614041pff.180 - gsmtp<EOL>
+20/05/26 00:11:34 >> Date: Tue, 26 May 2020 00:11:34 +0800<EOL>
+20/05/26 00:11:34 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:34 >> Subject: Message from user: 26<EOL>
+20/05/26 00:11:34 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:34 >> <EOL>
+20/05/26 00:11:34 >> wqeqweqw<EOL>
+20/05/26 00:11:34 >> .<EOL>
+20/05/26 00:11:34 << 250 2.0.0 OK  1590423095 1sm13614041pff.180 - gsmtp<EOL>
+20/05/26 00:11:34 >> QUIT<EOL>
+20/05/26 00:11:34 << 221 2.0.0 closing connection 1sm13614041pff.180 - gsmtp<EOL>
+20/05/26 00:11:34 ** Disconnected.
+20/05/26 00:11:34 ** Disconnected.
+20/05/26 00:11:34 ** Disconnected.
+20/05/26 00:11:34 ** --- MESSAGE BEGIN ---
+20/05/26 00:11:34 ** To: jiapao5626@gmail.com
+20/05/26 00:11:34 ** Subject: Message from user: 26
+20/05/26 00:11:34 ** From: jiapao5626@gmail.com
+20/05/26 00:11:34 ** 
+20/05/26 00:11:34 ** wqeqweqw
+20/05/26 00:11:34 ** --- MESSAGE END ---
+20/05/26 00:11:35 ** Connecting to smtp.gmail.com:465
+20/05/26 00:11:36 ** Connected.
+20/05/26 00:11:37 << 220 smtp.gmail.com ESMTP m63sm13570805pfb.101 - gsmtp<EOL>
+20/05/26 00:11:37 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:11:37 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:11:37 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:11:37 >> AUTH LOGIN<EOL>
+20/05/26 00:11:37 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:11:37 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:11:37 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:11:37 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:11:37 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:11:37 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:38 << 250 2.1.0 OK m63sm13570805pfb.101 - gsmtp<EOL>
+20/05/26 00:11:38 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:38 << 250 2.1.5 OK m63sm13570805pfb.101 - gsmtp<EOL>
+20/05/26 00:11:38 >> DATA<EOL>
+20/05/26 00:11:38 << 354  Go ahead m63sm13570805pfb.101 - gsmtp<EOL>
+20/05/26 00:11:38 >> Date: Tue, 26 May 2020 00:11:38 +0800<EOL>
+20/05/26 00:11:38 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:38 >> Subject: Message from user: 26<EOL>
+20/05/26 00:11:38 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:38 >> <EOL>
+20/05/26 00:11:38 >> wqeqweqw<EOL>
+20/05/26 00:11:38 >> .<EOL>
+20/05/26 00:11:39 << 250 2.0.0 OK  1590423099 m63sm13570805pfb.101 - gsmtp<EOL>
+20/05/26 00:11:39 >> QUIT<EOL>
+20/05/26 00:11:39 << 221 2.0.0 closing connection m63sm13570805pfb.101 - gsmtp<EOL>
+20/05/26 00:11:39 ** Disconnected.
+20/05/26 00:11:39 ** Disconnected.
+20/05/26 00:11:39 ** Disconnected.
+20/05/26 00:11:39 ** --- MESSAGE BEGIN ---
+20/05/26 00:11:39 ** To: jiapao5626@gmail.com
+20/05/26 00:11:39 ** Subject: Message from user: 26
+20/05/26 00:11:39 ** From: jiapao5626@gmail.com
+20/05/26 00:11:39 ** 
+20/05/26 00:11:39 ** wqeqweqw
+20/05/26 00:11:39 ** --- MESSAGE END ---
+20/05/26 00:11:40 ** Connecting to smtp.gmail.com:465
+20/05/26 00:11:40 ** Connected.
+20/05/26 00:11:41 << 220 smtp.gmail.com ESMTP z23sm11529340pga.86 - gsmtp<EOL>
+20/05/26 00:11:41 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:11:41 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:11:41 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:11:41 >> AUTH LOGIN<EOL>
+20/05/26 00:11:42 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:11:42 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:11:42 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:11:42 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:11:42 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:11:42 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:42 << 250 2.1.0 OK z23sm11529340pga.86 - gsmtp<EOL>
+20/05/26 00:11:42 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:42 << 250 2.1.5 OK z23sm11529340pga.86 - gsmtp<EOL>
+20/05/26 00:11:42 >> DATA<EOL>
+20/05/26 00:11:43 << 354  Go ahead z23sm11529340pga.86 - gsmtp<EOL>
+20/05/26 00:11:43 >> Date: Tue, 26 May 2020 00:11:43 +0800<EOL>
+20/05/26 00:11:43 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:43 >> Subject: Message from user: 26<EOL>
+20/05/26 00:11:43 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:43 >> <EOL>
+20/05/26 00:11:43 >> wqeqweqw<EOL>
+20/05/26 00:11:43 >> .<EOL>
+20/05/26 00:11:43 << 250 2.0.0 OK  1590423104 z23sm11529340pga.86 - gsmtp<EOL>
+20/05/26 00:11:43 >> QUIT<EOL>
+20/05/26 00:11:44 << 221 2.0.0 closing connection z23sm11529340pga.86 - gsmtp<EOL>
+20/05/26 00:11:44 ** Disconnected.
+20/05/26 00:11:44 ** Disconnected.
+20/05/26 00:11:44 ** Disconnected.
+20/05/26 00:11:51 ** --- MESSAGE BEGIN ---
+20/05/26 00:11:51 ** To: jiapao5626@gmail.com
+20/05/26 00:11:51 ** Subject: Message from user: 26
+20/05/26 00:11:51 ** From: jiapao5626@gmail.com
+20/05/26 00:11:51 ** 
+20/05/26 00:11:51 ** 1345
+20/05/26 00:11:51 ** --- MESSAGE END ---
+20/05/26 00:11:52 ** Connecting to smtp.gmail.com:465
+20/05/26 00:11:53 ** Connected.
+20/05/26 00:11:54 << 220 smtp.gmail.com ESMTP s9sm4791024pgo.22 - gsmtp<EOL>
+20/05/26 00:11:54 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 00:11:54 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 00:11:54 ** Authenticating as jiapao5626@gmail.com
+20/05/26 00:11:54 >> AUTH LOGIN<EOL>
+20/05/26 00:11:54 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 00:11:54 >> amlhcGFvNTYyNkBnbWFpbC5jb20=<EOL>
+20/05/26 00:11:54 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 00:11:54 >> MDE3Nzg1NTYyNg==<EOL>
+20/05/26 00:11:54 << 235 2.7.0 Accepted<EOL>
+20/05/26 00:11:54 >> MAIL FROM: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:55 << 250 2.1.0 OK s9sm4791024pgo.22 - gsmtp<EOL>
+20/05/26 00:11:55 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 00:11:55 << 250 2.1.5 OK s9sm4791024pgo.22 - gsmtp<EOL>
+20/05/26 00:11:55 >> DATA<EOL>
+20/05/26 00:11:55 << 354  Go ahead s9sm4791024pgo.22 - gsmtp<EOL>
+20/05/26 00:11:55 >> Date: Tue, 26 May 2020 00:11:55 +0800<EOL>
+20/05/26 00:11:55 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:55 >> Subject: Message from user: 26<EOL>
+20/05/26 00:11:55 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 00:11:55 >> <EOL>
+20/05/26 00:11:55 >> 1345<EOL>
+20/05/26 00:11:55 >> .<EOL>
+20/05/26 00:11:56 << 250 2.0.0 OK  1590423116 s9sm4791024pgo.22 - gsmtp<EOL>
+20/05/26 00:11:56 >> QUIT<EOL>
+20/05/26 00:11:56 << 221 2.0.0 closing connection s9sm4791024pgo.22 - gsmtp<EOL>
+20/05/26 00:11:56 ** Disconnected.
+20/05/26 00:11:56 ** Disconnected.
+20/05/26 00:11:56 ** Disconnected.
+20/05/26 01:36:04 ** --- MESSAGE BEGIN ---
+20/05/26 01:36:04 ** To: jiapao5626@gmail.com
+20/05/26 01:36:04 ** Subject: Message from user: 26
+20/05/26 01:36:04 ** From: jiapao5626@gmail.com
+20/05/26 01:36:04 ** 
+20/05/26 01:36:04 ** dfsfsdfsfd
+20/05/26 01:36:04 ** --- MESSAGE END ---
+20/05/26 01:36:05 ** Connecting to smtp.gmail.com:465
+20/05/26 01:36:05 ** Connected.
+20/05/26 01:36:06 << 220 smtp.gmail.com ESMTP 206sm13079883pfy.97 - gsmtp<EOL>
+20/05/26 01:36:06 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:36:06 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:36:06 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:36:06 >> AUTH LOGIN<EOL>
+20/05/26 01:36:07 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:36:07 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:36:07 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:36:07 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:36:07 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials 206sm13079883pfy.97 - gsmtp<EOL>
+20/05/26 01:36:07 ** Disconnecting from smtp.gmail.com:465
+20/05/26 01:36:07 ** Disconnected.
+20/05/26 01:36:07 ** Disconnected.
+20/05/26 01:36:07 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials 206sm13079883pfy.97 - gsmtp<EOL>
+20/05/26 01:36:17 ** --- MESSAGE BEGIN ---
+20/05/26 01:36:17 ** To: jiapao5626@gmail.com
+20/05/26 01:36:17 ** Subject: Message from user: 26
+20/05/26 01:36:17 ** From: jiapao5626@gmail.com
+20/05/26 01:36:17 ** 
+20/05/26 01:36:17 ** dfsfsdfsfd
+20/05/26 01:36:17 ** --- MESSAGE END ---
+20/05/26 01:36:18 ** Connecting to smtp.gmail.com:465
+20/05/26 01:36:18 ** Connected.
+20/05/26 01:36:19 << 220 smtp.gmail.com ESMTP r12sm11658576pgv.59 - gsmtp<EOL>
+20/05/26 01:36:19 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:36:19 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:36:19 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:36:19 >> AUTH LOGIN<EOL>
+20/05/26 01:36:20 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:36:20 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:36:20 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:36:20 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:36:20 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials r12sm11658576pgv.59 - gsmtp<EOL>
+20/05/26 01:36:20 ** Disconnecting from smtp.gmail.com:465
+20/05/26 01:36:20 ** Disconnected.
+20/05/26 01:36:20 ** Disconnected.
+20/05/26 01:36:20 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials r12sm11658576pgv.59 - gsmtp<EOL>
+20/05/26 01:36:20 ** --- MESSAGE BEGIN ---
+20/05/26 01:36:20 ** To: jiapao5626@gmail.com
+20/05/26 01:36:20 ** Subject: Message from user: 26
+20/05/26 01:36:20 ** From: jiapao5626@gmail.com
+20/05/26 01:36:20 ** 
+20/05/26 01:36:20 ** dfsfsdfsfd
+20/05/26 01:36:20 ** --- MESSAGE END ---
+20/05/26 01:36:21 ** Connecting to smtp.gmail.com:465
+20/05/26 01:36:22 ** Connected.
+20/05/26 01:36:23 << 220 smtp.gmail.com ESMTP m5sm12704545pjn.56 - gsmtp<EOL>
+20/05/26 01:36:23 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:36:23 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:36:23 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:36:23 >> AUTH LOGIN<EOL>
+20/05/26 01:36:24 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:36:24 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:36:24 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:36:24 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:36:24 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials m5sm12704545pjn.56 - gsmtp<EOL>
+20/05/26 01:36:24 ** Disconnecting from smtp.gmail.com:465
+20/05/26 01:36:24 ** Disconnected.
+20/05/26 01:36:24 ** Disconnected.
+20/05/26 01:36:24 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials m5sm12704545pjn.56 - gsmtp<EOL>
+20/05/26 01:36:33 ** --- MESSAGE BEGIN ---
+20/05/26 01:36:33 ** To: jiapao5626@gmail.com
+20/05/26 01:36:33 ** Subject: Message from user: 26
+20/05/26 01:36:33 ** From: jiapao5626@gmail.com
+20/05/26 01:36:33 ** 
+20/05/26 01:36:33 ** sddasda
+20/05/26 01:36:33 ** --- MESSAGE END ---
+20/05/26 01:36:34 ** Connecting to smtp.gmail.com:465
+20/05/26 01:36:34 ** Connected.
+20/05/26 01:36:35 << 220 smtp.gmail.com ESMTP y75sm13416053pfb.212 - gsmtp<EOL>
+20/05/26 01:36:35 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:36:35 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:36:35 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:36:35 >> AUTH LOGIN<EOL>
+20/05/26 01:36:35 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:36:35 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:36:36 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:36:36 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:36:36 << 535-5.7.8 Username and Password not accepted. Learn more at<EOL>535 5.7.8  https://support.google.com/mail/?p=BadCredentials y75sm13416053pfb.212 - gsmtp<EOL>
+20/05/26 01:36:36 ** Disconnecting from smtp.gmail.com:465
+20/05/26 01:36:36 ** Disconnected.
+20/05/26 01:36:36 ** Disconnected.
+20/05/26 01:36:36 ** Username and Password not accepted. Learn more at<EOL> https://support.google.com/mail/?p=BadCredentials y75sm13416053pfb.212 - gsmtp<EOL>
+20/05/26 01:37:46 ** --- MESSAGE BEGIN ---
+20/05/26 01:37:46 ** To: jiapao5626@gmail.com
+20/05/26 01:37:46 ** Subject: Message from user: 26
+20/05/26 01:37:46 ** From: jiapao5626@gmail.com
+20/05/26 01:37:46 ** 
+20/05/26 01:37:46 ** sddasda
+20/05/26 01:37:46 ** --- MESSAGE END ---
+20/05/26 01:37:47 ** Connecting to smtp.gmail.com:465
+20/05/26 01:37:47 ** Connected.
+20/05/26 01:37:48 << 220 smtp.gmail.com ESMTP 128sm13091076pfd.114 - gsmtp<EOL>
+20/05/26 01:37:48 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:37:48 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:37:48 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:37:48 >> AUTH LOGIN<EOL>
+20/05/26 01:37:48 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:37:48 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:37:49 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:37:49 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:37:49 << 235 2.7.0 Accepted<EOL>
+20/05/26 01:37:49 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:37:49 << 250 2.1.0 OK 128sm13091076pfd.114 - gsmtp<EOL>
+20/05/26 01:37:49 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 01:37:49 << 250 2.1.5 OK 128sm13091076pfd.114 - gsmtp<EOL>
+20/05/26 01:37:49 >> DATA<EOL>
+20/05/26 01:37:50 << 354  Go ahead 128sm13091076pfd.114 - gsmtp<EOL>
+20/05/26 01:37:50 >> Date: Tue, 26 May 2020 01:37:50 +0800<EOL>
+20/05/26 01:37:50 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 01:37:50 >> Subject: Message from user: 26<EOL>
+20/05/26 01:37:50 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 01:37:50 >> <EOL>
+20/05/26 01:37:50 >> sddasda<EOL>
+20/05/26 01:37:50 >> .<EOL>
+20/05/26 01:37:51 << 250 2.0.0 OK  1590428271 128sm13091076pfd.114 - gsmtp<EOL>
+20/05/26 01:37:51 >> QUIT<EOL>
+20/05/26 01:37:51 << 221 2.0.0 closing connection 128sm13091076pfd.114 - gsmtp<EOL>
+20/05/26 01:37:51 ** Disconnected.
+20/05/26 01:37:51 ** Disconnected.
+20/05/26 01:37:51 ** Disconnected.
+20/05/26 01:37:51 ** --- MESSAGE BEGIN ---
+20/05/26 01:37:51 ** To: jiapao5626@gmail.com
+20/05/26 01:37:51 ** Subject: Message from user: 26
+20/05/26 01:37:51 ** From: jiapao5626@gmail.com
+20/05/26 01:37:51 ** 
+20/05/26 01:37:51 ** sddasda
+20/05/26 01:37:51 ** --- MESSAGE END ---
+20/05/26 01:37:52 ** Connecting to smtp.gmail.com:465
+20/05/26 01:37:53 ** Connected.
+20/05/26 01:37:53 << 220 smtp.gmail.com ESMTP p30sm11598472pgn.58 - gsmtp<EOL>
+20/05/26 01:37:53 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:37:54 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:37:54 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:37:54 >> AUTH LOGIN<EOL>
+20/05/26 01:37:54 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:37:54 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:37:54 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:37:54 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:37:54 << 235 2.7.0 Accepted<EOL>
+20/05/26 01:37:54 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:37:55 << 250 2.1.0 OK p30sm11598472pgn.58 - gsmtp<EOL>
+20/05/26 01:37:55 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 01:37:55 << 250 2.1.5 OK p30sm11598472pgn.58 - gsmtp<EOL>
+20/05/26 01:37:55 >> DATA<EOL>
+20/05/26 01:37:55 << 354  Go ahead p30sm11598472pgn.58 - gsmtp<EOL>
+20/05/26 01:37:55 >> Date: Tue, 26 May 2020 01:37:55 +0800<EOL>
+20/05/26 01:37:55 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 01:37:55 >> Subject: Message from user: 26<EOL>
+20/05/26 01:37:55 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 01:37:55 >> <EOL>
+20/05/26 01:37:55 >> sddasda<EOL>
+20/05/26 01:37:55 >> .<EOL>
+20/05/26 01:37:56 << 250 2.0.0 OK  1590428276 p30sm11598472pgn.58 - gsmtp<EOL>
+20/05/26 01:37:56 >> QUIT<EOL>
+20/05/26 01:37:56 << 221 2.0.0 closing connection p30sm11598472pgn.58 - gsmtp<EOL>
+20/05/26 01:37:56 ** Disconnecting from smtp.gmail.com:465
+20/05/26 01:37:56 ** Disconnected.
+20/05/26 01:37:56 ** Disconnected.
+20/05/26 01:38:47 ** --- MESSAGE BEGIN ---
+20/05/26 01:38:47 ** To: jiapao5626@gmail.com
+20/05/26 01:38:47 ** Subject: Message from user: 26
+20/05/26 01:38:47 ** From: jiapao5626@gmail.com
+20/05/26 01:38:47 ** 
+20/05/26 01:38:47 ** ertertet
+20/05/26 01:38:47 ** --- MESSAGE END ---
+20/05/26 01:38:48 ** Connecting to smtp.gmail.com:465
+20/05/26 01:38:48 ** Connected.
+20/05/26 01:38:50 << 220 smtp.gmail.com ESMTP h24sm13274586pjz.24 - gsmtp<EOL>
+20/05/26 01:38:50 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:38:50 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:38:50 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:38:50 >> AUTH LOGIN<EOL>
+20/05/26 01:38:50 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:38:50 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:38:50 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:38:50 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:38:51 << 235 2.7.0 Accepted<EOL>
+20/05/26 01:38:51 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:38:51 << 250 2.1.0 OK h24sm13274586pjz.24 - gsmtp<EOL>
+20/05/26 01:38:51 >> RCPT TO: <jiapao5626@gmail.com><EOL>
+20/05/26 01:38:51 << 250 2.1.5 OK h24sm13274586pjz.24 - gsmtp<EOL>
+20/05/26 01:38:51 >> DATA<EOL>
+20/05/26 01:38:52 << 354  Go ahead h24sm13274586pjz.24 - gsmtp<EOL>
+20/05/26 01:38:52 >> Date: Tue, 26 May 2020 01:38:52 +0800<EOL>
+20/05/26 01:38:52 >> To: jiapao5626@gmail.com<EOL>
+20/05/26 01:38:52 >> Subject: Message from user: 26<EOL>
+20/05/26 01:38:52 >> From: jiapao5626@gmail.com<EOL>
+20/05/26 01:38:52 >> <EOL>
+20/05/26 01:38:52 >> ertertet<EOL>
+20/05/26 01:38:52 >> .<EOL>
+20/05/26 01:38:52 << 250 2.0.0 OK  1590428333 h24sm13274586pjz.24 - gsmtp<EOL>
+20/05/26 01:38:52 >> QUIT<EOL>
+20/05/26 01:38:53 << 221 2.0.0 closing connection h24sm13274586pjz.24 - gsmtp<EOL>
+20/05/26 01:38:53 ** Disconnected.
+20/05/26 01:38:53 ** Disconnected.
+20/05/26 01:38:53 ** Disconnected.
+20/05/26 01:40:16 ** --- MESSAGE BEGIN ---
+20/05/26 01:40:16 ** To: askwistoriabakery@gmail.com
+20/05/26 01:40:16 ** Subject: Message from user: 26
+20/05/26 01:40:16 ** From: askwistoriabakery@gmail.com
+20/05/26 01:40:16 ** 
+20/05/26 01:40:16 ** ertertetsdrraer
+20/05/26 01:40:16 ** --- MESSAGE END ---
+20/05/26 01:40:17 ** Connecting to smtp.gmail.com:465
+20/05/26 01:40:17 ** Connected.
+20/05/26 01:40:19 << 220 smtp.gmail.com ESMTP mg9sm13682699pjb.10 - gsmtp<EOL>
+20/05/26 01:40:19 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:40:19 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:40:19 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:40:19 >> AUTH LOGIN<EOL>
+20/05/26 01:40:19 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:40:19 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:40:19 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:40:19 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:40:19 << 235 2.7.0 Accepted<EOL>
+20/05/26 01:40:19 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:40:20 << 250 2.1.0 OK mg9sm13682699pjb.10 - gsmtp<EOL>
+20/05/26 01:40:20 >> RCPT TO: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:40:20 << 250 2.1.5 OK mg9sm13682699pjb.10 - gsmtp<EOL>
+20/05/26 01:40:20 >> DATA<EOL>
+20/05/26 01:40:20 << 354  Go ahead mg9sm13682699pjb.10 - gsmtp<EOL>
+20/05/26 01:40:20 >> Date: Tue, 26 May 2020 01:40:20 +0800<EOL>
+20/05/26 01:40:20 >> To: askwistoriabakery@gmail.com<EOL>
+20/05/26 01:40:20 >> Subject: Message from user: 26<EOL>
+20/05/26 01:40:20 >> From: askwistoriabakery@gmail.com<EOL>
+20/05/26 01:40:20 >> <EOL>
+20/05/26 01:40:20 >> ertertetsdrraer<EOL>
+20/05/26 01:40:20 >> .<EOL>
+20/05/26 01:40:21 << 250 2.0.0 OK  1590428422 mg9sm13682699pjb.10 - gsmtp<EOL>
+20/05/26 01:40:21 >> QUIT<EOL>
+20/05/26 01:40:21 << 221 2.0.0 closing connection mg9sm13682699pjb.10 - gsmtp<EOL>
+20/05/26 01:40:21 ** Disconnecting from smtp.gmail.com:465
+20/05/26 01:40:21 ** Disconnected.
+20/05/26 01:40:21 ** Disconnected.
+20/05/26 01:40:21 ** --- MESSAGE BEGIN ---
+20/05/26 01:40:21 ** To: askwistoriabakery@gmail.com
+20/05/26 01:40:21 ** Subject: Message from user: 26
+20/05/26 01:40:21 ** From: askwistoriabakery@gmail.com
+20/05/26 01:40:21 ** 
+20/05/26 01:40:21 ** ertertetsdrraer
+20/05/26 01:40:21 ** --- MESSAGE END ---
+20/05/26 01:40:22 ** Connecting to smtp.gmail.com:465
+20/05/26 01:40:23 ** Connected.
+20/05/26 01:40:24 << 220 smtp.gmail.com ESMTP e19sm13007868pfn.17 - gsmtp<EOL>
+20/05/26 01:40:24 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/26 01:40:24 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/26 01:40:24 ** Authenticating as askwistoriabakery@gmail.com
+20/05/26 01:40:24 >> AUTH LOGIN<EOL>
+20/05/26 01:40:24 << 334 VXNlcm5hbWU6<EOL>
+20/05/26 01:40:24 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/26 01:40:24 << 334 UGFzc3dvcmQ6<EOL>
+20/05/26 01:40:24 >> V2JfMjAyMDU=<EOL>
+20/05/26 01:40:25 << 235 2.7.0 Accepted<EOL>
+20/05/26 01:40:25 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:40:25 << 250 2.1.0 OK e19sm13007868pfn.17 - gsmtp<EOL>
+20/05/26 01:40:25 >> RCPT TO: <askwistoriabakery@gmail.com><EOL>
+20/05/26 01:40:25 << 250 2.1.5 OK e19sm13007868pfn.17 - gsmtp<EOL>
+20/05/26 01:40:25 >> DATA<EOL>
+20/05/26 01:40:25 << 354  Go ahead e19sm13007868pfn.17 - gsmtp<EOL>
+20/05/26 01:40:25 >> Date: Tue, 26 May 2020 01:40:25 +0800<EOL>
+20/05/26 01:40:25 >> To: askwistoriabakery@gmail.com<EOL>
+20/05/26 01:40:25 >> Subject: Message from user: 26<EOL>
+20/05/26 01:40:25 >> From: askwistoriabakery@gmail.com<EOL>
+20/05/26 01:40:25 >> <EOL>
+20/05/26 01:40:25 >> ertertetsdrraer<EOL>
+20/05/26 01:40:25 >> .<EOL>
+20/05/26 01:40:26 << 250 2.0.0 OK  1590428427 e19sm13007868pfn.17 - gsmtp<EOL>
+20/05/26 01:40:26 >> QUIT<EOL>
+20/05/26 01:40:27 << 221 2.0.0 closing connection e19sm13007868pfn.17 - gsmtp<EOL>
+20/05/26 01:40:27 ** Disconnected.
+20/05/26 01:40:27 ** Disconnected.
+20/05/26 01:40:27 ** Disconnected.
+20/05/27 23:38:28 ** --- MESSAGE BEGIN ---
+20/05/27 23:38:28 ** To: askwistoriabakery@gmail.com
+20/05/27 23:38:28 ** Subject: Message from user: 27
+20/05/27 23:38:28 ** From: askwistoriabakery@gmail.com
+20/05/27 23:38:28 ** 
+20/05/27 23:38:28 ** Hi, can I know more about the chocolate cake?
+20/05/27 23:38:28 ** --- MESSAGE END ---
+20/05/27 23:38:29 ** Connecting to smtp.gmail.com:465
+20/05/27 23:38:30 ** Connected.
+20/05/27 23:38:31 << 220 smtp.gmail.com ESMTP s75sm2348397pgc.13 - gsmtp<EOL>
+20/05/27 23:38:31 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/27 23:38:31 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/27 23:38:31 ** Authenticating as askwistoriabakery@gmail.com
+20/05/27 23:38:31 >> AUTH LOGIN<EOL>
+20/05/27 23:38:31 << 334 VXNlcm5hbWU6<EOL>
+20/05/27 23:38:31 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/27 23:38:31 << 334 UGFzc3dvcmQ6<EOL>
+20/05/27 23:38:31 >> V2JfMjAyMDU=<EOL>
+20/05/27 23:38:32 << 235 2.7.0 Accepted<EOL>
+20/05/27 23:38:32 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/27 23:38:32 << 250 2.1.0 OK s75sm2348397pgc.13 - gsmtp<EOL>
+20/05/27 23:38:32 >> RCPT TO: <askwistoriabakery@gmail.com><EOL>
+20/05/27 23:38:32 << 250 2.1.5 OK s75sm2348397pgc.13 - gsmtp<EOL>
+20/05/27 23:38:32 >> DATA<EOL>
+20/05/27 23:38:33 << 354  Go ahead s75sm2348397pgc.13 - gsmtp<EOL>
+20/05/27 23:38:33 >> Date: Wed, 27 May 2020 23:38:33 +0800<EOL>
+20/05/27 23:38:33 >> To: askwistoriabakery@gmail.com<EOL>
+20/05/27 23:38:33 >> Subject: Message from user: 27<EOL>
+20/05/27 23:38:33 >> From: askwistoriabakery@gmail.com<EOL>
+20/05/27 23:38:33 >> <EOL>
+20/05/27 23:38:33 >> Hi, can I know more about the chocolate cake?<EOL>
+20/05/27 23:38:33 >> .<EOL>
+20/05/27 23:38:34 << 250 2.0.0 OK  1590593914 s75sm2348397pgc.13 - gsmtp<EOL>
+20/05/27 23:38:34 >> QUIT<EOL>
+20/05/27 23:38:34 << 221 2.0.0 closing connection s75sm2348397pgc.13 - gsmtp<EOL>
+20/05/27 23:38:34 ** Disconnected.
+20/05/27 23:38:34 ** Disconnected.
+20/05/27 23:38:34 ** Disconnected.
+20/05/28 15:01:47 ** --- MESSAGE BEGIN ---
+20/05/28 15:01:47 ** To: askwistoriabakery@gmail.com
+20/05/28 15:01:47 ** Subject: Message from user: 27
+20/05/28 15:01:47 ** From: askwistoriabakery@gmail.com
+20/05/28 15:01:47 ** 
+20/05/28 15:01:47 ** Hi
+20/05/28 15:01:47 ** --- MESSAGE END ---
+20/05/28 15:01:48 ** Connecting to smtp.gmail.com:465
+20/05/28 15:01:48 ** Connected.
+20/05/28 15:01:50 << 220 smtp.gmail.com ESMTP b5sm3920356pju.50 - gsmtp<EOL>
+20/05/28 15:01:50 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/28 15:01:50 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/28 15:01:50 ** Authenticating as askwistoriabakery@gmail.com
+20/05/28 15:01:50 >> AUTH LOGIN<EOL>
+20/05/28 15:01:50 << 334 VXNlcm5hbWU6<EOL>
+20/05/28 15:01:50 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/28 15:01:50 << 334 UGFzc3dvcmQ6<EOL>
+20/05/28 15:01:50 >> V2JfMjAyMDU=<EOL>
+20/05/28 15:01:51 << 235 2.7.0 Accepted<EOL>
+20/05/28 15:01:51 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/28 15:01:51 << 250 2.1.0 OK b5sm3920356pju.50 - gsmtp<EOL>
+20/05/28 15:01:51 >> RCPT TO: <askwistoriabakery@gmail.com><EOL>
+20/05/28 15:01:51 << 250 2.1.5 OK b5sm3920356pju.50 - gsmtp<EOL>
+20/05/28 15:01:51 >> DATA<EOL>
+20/05/28 15:01:52 << 354  Go ahead b5sm3920356pju.50 - gsmtp<EOL>
+20/05/28 15:01:52 >> Date: Thu, 28 May 2020 15:01:52 +0800<EOL>
+20/05/28 15:01:52 >> To: askwistoriabakery@gmail.com<EOL>
+20/05/28 15:01:52 >> Subject: Message from user: 27<EOL>
+20/05/28 15:01:52 >> From: askwistoriabakery@gmail.com<EOL>
+20/05/28 15:01:52 >> <EOL>
+20/05/28 15:01:52 >> Hi<EOL>
+20/05/28 15:01:52 >> .<EOL>
+20/05/28 15:01:53 << 250 2.0.0 OK  1590649313 b5sm3920356pju.50 - gsmtp<EOL>
+20/05/28 15:01:53 >> QUIT<EOL>
+20/05/28 15:01:53 << 221 2.0.0 closing connection b5sm3920356pju.50 - gsmtp<EOL>
+20/05/28 15:01:53 ** Disconnecting from smtp.gmail.com:465
+20/05/28 15:01:53 ** Disconnected.
+20/05/28 15:01:53 ** Disconnected.
+20/05/28 19:12:21 ** --- MESSAGE BEGIN ---
+20/05/28 19:12:21 ** To: askwistoriabakery@gmail.com
+20/05/28 19:12:21 ** Subject: Message from user: 27
+20/05/28 19:12:21 ** From: askwistoriabakery@gmail.com
+20/05/28 19:12:21 ** 
+20/05/28 19:12:21 ** Hi, I would like to know the ingredients of the Chocolate cake.
+20/05/28 19:12:21 ** --- MESSAGE END ---
+20/05/28 19:12:22 ** Connecting to smtp.gmail.com:465
+20/05/28 19:12:22 ** Connected.
+20/05/28 19:12:23 << 220 smtp.gmail.com ESMTP j26sm4574149pfr.215 - gsmtp<EOL>
+20/05/28 19:12:23 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/28 19:12:23 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/28 19:12:23 ** Authenticating as askwistoriabakery@gmail.com
+20/05/28 19:12:23 >> AUTH LOGIN<EOL>
+20/05/28 19:12:23 << 334 VXNlcm5hbWU6<EOL>
+20/05/28 19:12:23 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/28 19:12:24 << 334 UGFzc3dvcmQ6<EOL>
+20/05/28 19:12:24 >> V2JfMjAyMDU=<EOL>
+20/05/28 19:12:24 << 235 2.7.0 Accepted<EOL>
+20/05/28 19:12:24 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/28 19:12:24 << 250 2.1.0 OK j26sm4574149pfr.215 - gsmtp<EOL>
+20/05/28 19:12:24 >> RCPT TO: <askwistoriabakery@gmail.com><EOL>
+20/05/28 19:12:24 << 250 2.1.5 OK j26sm4574149pfr.215 - gsmtp<EOL>
+20/05/28 19:12:24 >> DATA<EOL>
+20/05/28 19:12:25 << 354  Go ahead j26sm4574149pfr.215 - gsmtp<EOL>
+20/05/28 19:12:25 >> Date: Thu, 28 May 2020 19:12:25 +0800<EOL>
+20/05/28 19:12:25 >> To: askwistoriabakery@gmail.com<EOL>
+20/05/28 19:12:25 >> Subject: Message from user: 27<EOL>
+20/05/28 19:12:25 >> From: askwistoriabakery@gmail.com<EOL>
+20/05/28 19:12:25 >> <EOL>
+20/05/28 19:12:25 >> Hi, I would like to know the ingredients of the Chocolate cake.<EOL>
+20/05/28 19:12:25 >> .<EOL>
+20/05/28 19:12:25 << 250 2.0.0 OK  1590664346 j26sm4574149pfr.215 - gsmtp<EOL>
+20/05/28 19:12:25 >> QUIT<EOL>
+20/05/28 19:12:26 << 221 2.0.0 closing connection j26sm4574149pfr.215 - gsmtp<EOL>
+20/05/28 19:12:26 ** Disconnected.
+20/05/28 19:12:26 ** Disconnected.
+20/05/28 19:12:26 ** Disconnected.
+20/05/28 22:55:25 ** --- MESSAGE BEGIN ---
+20/05/28 22:55:25 ** To: askwistoriabakery@gmail.com
+20/05/28 22:55:25 ** Subject: Message from user: 27
+20/05/28 22:55:25 ** From: askwistoriabakery@gmail.com
+20/05/28 22:55:25 ** 
+20/05/28 22:55:25 ** Hi
+20/05/28 22:55:25 ** --- MESSAGE END ---
+20/05/28 22:55:26 ** Connecting to smtp.gmail.com:465
+20/05/28 22:55:27 ** Connected.
+20/05/28 22:55:28 << 220 smtp.gmail.com ESMTP n19sm5302763pjo.5 - gsmtp<EOL>
+20/05/28 22:55:28 >> EHLO DESKTOP-LJ0BAMR<EOL>
+20/05/28 22:55:28 << 250-smtp.gmail.com at your service, [147.158.244.121]<EOL>250-SIZE 35882577<EOL>250-8BITMIME<EOL>250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH<EOL>250-ENHANCEDSTATUSCODES<EOL>250-PIPELINING<EOL>250-CHUNKING<EOL>250 SMTPUTF8<EOL>
+20/05/28 22:55:28 ** Authenticating as askwistoriabakery@gmail.com
+20/05/28 22:55:28 >> AUTH LOGIN<EOL>
+20/05/28 22:55:29 << 334 VXNlcm5hbWU6<EOL>
+20/05/28 22:55:29 >> YXNrd2lzdG9yaWFiYWtlcnlAZ21haWwuY29t<EOL>
+20/05/28 22:55:29 << 334 UGFzc3dvcmQ6<EOL>
+20/05/28 22:55:29 >> V2JfMjAyMDU=<EOL>
+20/05/28 22:55:29 << 235 2.7.0 Accepted<EOL>
+20/05/28 22:55:29 >> MAIL FROM: <askwistoriabakery@gmail.com><EOL>
+20/05/28 22:55:29 << 250 2.1.0 OK n19sm5302763pjo.5 - gsmtp<EOL>
+20/05/28 22:55:29 >> RCPT TO: <askwistoriabakery@gmail.com><EOL>
+20/05/28 22:55:30 << 250 2.1.5 OK n19sm5302763pjo.5 - gsmtp<EOL>
+20/05/28 22:55:30 >> DATA<EOL>
+20/05/28 22:55:30 << 354  Go ahead n19sm5302763pjo.5 - gsmtp<EOL>
+20/05/28 22:55:30 >> Date: Thu, 28 May 2020 22:55:30 +0800<EOL>
+20/05/28 22:55:30 >> To: askwistoriabakery@gmail.com<EOL>
+20/05/28 22:55:30 >> Subject: Message from user: 27<EOL>
+20/05/28 22:55:30 >> From: askwistoriabakery@gmail.com<EOL>
+20/05/28 22:55:30 >> <EOL>
+20/05/28 22:55:30 >> Hi<EOL>
+20/05/28 22:55:30 >> .<EOL>
+20/05/28 22:55:31 << 250 2.0.0 OK  1590677732 n19sm5302763pjo.5 - gsmtp<EOL>
+20/05/28 22:55:31 >> QUIT<EOL>
+20/05/28 22:55:31 << 221 2.0.0 closing connection n19sm5302763pjo.5 - gsmtp<EOL>
+20/05/28 22:55:31 ** Disconnecting from smtp.gmail.com:465
+20/05/28 22:55:31 ** Disconnected.
+20/05/28 22:55:31 ** Disconnected.
