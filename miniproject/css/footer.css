@@ -1,0 +1,123 @@
+#grid-container{
+    margin-top:10px;
+    height:310px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-image:url('http://localhost/miniproject/images/bread_background1.png');
+    background-size:cover;
+    background-color: black;
+}
+
+.follow-us,
+.working-hour,
+.address,
+.contact-us{
+    text-align:center;
+}
+
+
+.working-hour{
+    width:420px;
+}
+
+.address{
+    width:280px;
+}
+
+.fa{
+    display:flex;
+    justify-content:center;
+    margin:10px;
+    padding: 10px;
+    font-size: 15px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.fa:hover{
+    transform:scale(1.1);
+    cursor:pointer;
+}
+
+.fa-facebook{
+    background: #3B5998;
+    color:white;
+   
+}
+
+.fa-instagram{
+    background:#f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    color:white;
+}
+
+h3{
+    text-align:center;
+    color:white;
+    font-size:19px;
+}
+
+p,
+#link-1{
+    text-align:center;
+    margin:0;
+    color:white;
+    font-size:17px;
+}
+
+.working-hour p,
+.address p,
+.contact-us p{
+    margin:10px;
+}
+
+a#link-1:link{
+    text-decoration:none;
+    color:white;
+}
+
+a#link-1:visited{
+    text-decoration:none;
+    color:white;
+}
+
+a#link-1:hover{
+    text-decoration:none;
+    color:#87CEFA;
+    cursor:pointer;
+}
+
+a#link-1:active{
+    text-decoration:none;
+    color:#173f5f;
+}
+
+a#email:link{
+    text-decoration:none;
+    color:white;
+}
+
+a#email:visited{
+    text-decoration:none;
+    color:white;
+}
+
+a#email:hover{
+    text-decoration:none;
+    color:#87CEFA;
+    cursor:pointer;
+}
+
+a#email:active{
+    text-decoration:none;
+    color:#173f5f;
+}
+
+.copyright{
+    transform:translateX(575px);
+}

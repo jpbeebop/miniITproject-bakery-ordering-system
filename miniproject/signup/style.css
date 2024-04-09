@@ -1,0 +1,8 @@
+ #emailExist, #pswNotMatch, h2#weakPassword, #emptyFields, #invalidName, #invalidEmail, #invalidPhone{
+ display:none;
+ color:red;
+}
+#promptSignUp{
+    display:block;
+}
+

@@ -1,0 +1,257 @@
+/* Portfolio Styling */
+
+#text-1 h1{
+    position:absolute;
+    top:200px;
+    left:0;
+    width:100%;
+    padding:10px 0;
+}
+
+#text-2 h1{
+    position:absolute;
+    top:200px;
+    left:0;
+    width:100%;
+    padding:10px 0;
+    transform:translateY(1050px);
+}
+
+#text-3 h1{
+    position:absolute;
+    top:200px;
+    left:0;
+    width:100%;
+    padding:10px 0;
+    transform:translateY(2095px);
+}
+
+.classA{
+    color:#696969;
+    font-weight:bold;
+    font-size:45px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    letter-spacing:-1px;
+    background-color:#D3D3D3; 
+    opacity:0.8;
+    width:98%;
+}
+
+span{
+    font-size:40px;
+}
+
+.classB p{
+    position:absolute;
+    top:400px;
+    left:10px;
+    font-size:23px;
+    width:35%;
+    font-style:italic;
+    font-family:Helvetica, Arial, sans-serif;  
+}
+
+
+
+.classC p{
+    position:absolute;
+    top:1435px;
+    left:30px;
+    font-size:24px;
+    width:35%;
+    font-style:italic;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+.classD p{
+    position:absolute;
+    top:2500px;
+    left:48px;
+    font-size:24px;
+    width:28%;
+    font-style:italic;
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+
+
+h2{
+    font-family: Georgia, Times New Roman, serif;
+    font-size: 70px;
+    font-weight: bold;
+    margin:50px 0 10px;
+    color: black;
+}
+
+#container-product{
+    width:100%;
+    display:flex;
+    flex-direction:column;
+    margin:0 auto;S
+}
+
+.product{
+    position:relative;
+    flex: 1 1 0px;
+}
+
+.product img{
+    position:relative;
+    display:block;
+    max-width: 100%;
+    height:auto;
+    margin:10px auto;
+    -webkit-filter: drop-shadow(2px 2px 5px #a4a4a4);
+}
+
+#container{
+    display: flex;
+    margin: 10px 0 30px;
+}
+
+.cake{
+    position:relative;
+    display:block;
+    flex: 1 1 0px;
+    transition: transform 800ms;
+}
+
+.cake img{
+    display:block;
+    max-width:100%
+}
+
+#container .cake:focus,
+#container .cake:hover{
+    transform: scale(1.2);
+    z-index:1;
+}
+
+body{
+    background-color:white;
+}
+
+/* Footer */
+
+#grid-container{
+    margin-top:60px;
+    height:310px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    background-image:url('../images/bread_background1.png') ;
+    background-size:cover;
+    background-color:black;
+}
+.follow-us,
+.working-hour,
+.address,
+.contact-us{
+    text-align:center;
+}
+
+
+.working-hour{
+    width:420px;
+}
+
+.address{
+    width:280px;
+}
+
+.fa{
+    display:flex;
+    justify-content:center;
+    margin:10px;
+    padding: 10px;
+    font-size: 15px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+.fa:hover{
+    transform:scale(1.1);
+    cursor:pointer;
+}
+
+.fa-facebook{
+    background: #3B5998;
+    color:white;
+   
+}
+
+.fa-instagram{
+    background:#f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+    color:white;
+}
+
+h3{
+    text-align:center;
+    color:white;
+    font-size:19px;
+}
+
+p,
+#link-1{
+    text-align:center;
+    margin:0;
+    color:white;
+    font-size:17px;
+}
+
+.working-hour p,
+.address p,
+.contact-us p{
+    margin:10px;
+}
+
+a#link-1:link{
+    text-decoration:none;
+    color:white;
+}
+
+a#link-1:visited{
+    text-decoration:none;
+    color:white;
+}
+
+a#link-1:hover{
+    text-decoration:none;
+    color:#87CEFA;
+    cursor:pointer;
+}
+
+a#link-1:active{
+    text-decoration:none;
+    color:#173f5f;
+}
+
+a#email:link{
+    text-decoration:none;
+    color:white;
+}
+
+a#email:visited{
+    text-decoration:none;
+    color:white;
+}
+
+a#email:hover{
+    text-decoration:none;
+    color:#87CEFA;
+    cursor:pointer;
+}
+
+a#email:active{
+    text-decoration:none;
+    color:#173f5f;
+}
+
+.copyright{
+    transform:translateX(575px);
+}

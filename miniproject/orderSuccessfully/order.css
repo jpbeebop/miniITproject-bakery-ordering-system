@@ -1,0 +1,53 @@
+body{
+    background:url('images/bread_background.jpg') center center no-repeat;
+    background-size:cover;
+    opacity:0.7;
+}
+
+.grey-area{
+    color:white;
+    background-color:#DCDCDC;
+    position:absolute;
+    top:200px;
+    left:0;
+    width:100%;
+    text-align:center;
+}
+    
+.success{
+    font-size:80px;
+    color:black;
+ }
+
+ .grey-area p{
+     font-size:40px;
+     color:black;
+     font-family:Helvetica, Arial, sans-serif;
+     font-style:italic;
+     font-weight:bold;
+ }
+
+ .text-home{
+     font-size:25px;
+ }
+
+.text-home:link{
+     text-decoration:none;
+     color:navy;
+ }
+
+ .text-home:visited{
+    text-decoration:none;
+    color:navy;
+}
+
+.text-home:hover{
+    text-decoration:none;
+    color:navy;
+    cursor:pointer;
+}
+
+.text-home:active{
+    text-decoration:none;
+    color:navy;
+}

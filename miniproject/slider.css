@@ -1,0 +1,80 @@
+body{
+	margin:0;
+	padding:0;
+}
+
+.slidershow{
+
+	width:100%;
+	height: 700px;
+	overflow:hidden;
+}
+
+.slider-navigation{
+	position: absolute;
+	bottom: 30px;
+	left:50%;
+	transform: translateX(-50%);
+	display: flex;
+}
+
+.bar{
+	width:60px;
+	height: 15px;
+	border:2px solid #fff;
+	margin:15px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.bar:hover{
+	background:white;
+}
+
+input[name="image"]{
+	position: absolute;
+	visibility: hidden;
+}
+
+.slider{
+	width:500%;
+	height: 100%;
+	display: flex;	
+}
+
+.slideimage{
+	width:20%;
+	transition: 0.8s;
+}
+
+.slideimage img{
+	width: 100%;
+	height: 100%;
+}
+
+#image1:checked~.Id1{
+	margin-left: 0%;
+}
+
+#image2:checked~.Id1{
+	margin-left: -20%;
+}
+
+#image3:checked~.Id1{
+	margin-left: -40%;	
+}
+
+#image4:checked~.Id1{
+	margin-left: -60%;	
+}
+
+
+
+
+
+
+
+
+
+
+

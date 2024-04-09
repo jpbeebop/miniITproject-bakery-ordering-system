@@ -1,0 +1,94 @@
+/*change all variable name of login-box to signup-box*/
+
+body{
+    padding: 0;
+    background-color: white;
+}
+
+#signup-box{
+    width:600px;
+    padding:50px;
+    padding-top: 10px;
+    padding-bottom: 50px;
+    margin:10% auto 0;
+    margin-top: 100px;s
+    background:white ;
+    text-align: center;
+}
+
+h1{
+    font-family: Georgia, Times New Roman, serif;
+    margin:0 auto 30px;
+    font-size: 60px;
+}
+
+h2{
+    margin:0 auto 30px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#signup-box p {
+    font-family: Helvetica, Arial, sans-serif;
+    display:block;
+    margin-top: 30px;
+}
+
+.signuplink{
+    color:#2a6592;
+    text-decoration: none;
+    font-weight:bold;
+}
+
+.signuplink:hover{
+    color: #173f5f;
+}
+
+.textbox{
+    position:relative;
+    margin:0px auto;
+    padding:10px;
+    text-align: left;
+    border-bottom: 1px solid ;
+    width: 500px;       
+}
+
+input[type="text"],
+input[type="password"]{
+    border: none;
+    outline: none;
+    background-color:white;
+    font-family: Monaco, monospace;
+    font-size:16px;
+}
+
+.button {
+    font-weight:bold;
+    font-size:16px;
+    text-transform: uppercase;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 30px auto 0;
+    cursor: pointer;
+    width: 35%;
+    border-radius: 150px;
+    transition: 0.2s;
+    border: 2px solid #000000;
+}
+
+.button:hover{
+    background: black;
+    color:white;
+}
+
+.button:active{
+    background: #2a6592;
+    color:white;
+    border:solid 2px #2a6592;
+}
+
+.haveanaccount{
+    color:black;
+}

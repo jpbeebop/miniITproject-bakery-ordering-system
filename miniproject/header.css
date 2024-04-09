@@ -1,0 +1,47 @@
+body{
+	background-color: white;
+	margin: 0;
+	padding:0;		
+}
+
+img.logo{
+	float: left ;
+	height: 13.8%;
+	width:25%;
+}
+
+header{
+	background: white;
+	width: 100%;
+	padding-bottom: 10px;
+}
+
+.headerabc .header123{
+	margin:0;
+	padding:0;
+	list-style-type: none;
+	text-align: right;
+	font-family: Helvetica,Arial,sans-serif;
+
+}
+		
+.headernav{
+	display: inline-block;
+	font-size: 6mm;
+	margin-top:40px;
+	margin-right: 20px;
+	margin-left: 10px;
+}
+
+.header789{
+	font-weight: none;
+}
+		
+nav a{
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight:bold;
+	color: black;
+}
+
+		
